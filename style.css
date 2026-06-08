@@ -3,12 +3,17 @@ h1{
 }
 
 body{
-    background-color: rgb(183, 230, 214);
+    background-image: url("transferir.jpg"); /*imagem de fundo do site*/
+    /*background-color: rgb(183, 230, 214);*/
     text-align: center;
 }
 img{
     width: 500px;
 }
 .naruto{
+    text-decoration: nome;
     color: rgb(1, 70, 18);
+}
+footer{
+    
 }
