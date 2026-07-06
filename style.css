@@ -1,9 +1,9 @@
 h1{
-    color: rgb(79, 245, 167);
+    color: rgb(1, 66, 36);
 }
 
 body{
-    background-image: url("download.jpeg"); /*imagem de fundo do site*/
+    background-image: url("transferir\ \(1\).jpg"); /*imagem de fundo do site*/
     /*background-color: rgb(183, 230, 214);*/
     text-align: center;
 }
@@ -12,11 +12,11 @@ img{
 }
 .naruto{
     text-decoration: nome;
-    color: rgb(0, 255, 64);
+    color: rgb(1, 70, 18);
 }
 footer{
     
 }
-.instagram{
-    color: rgb(21, 255, 0);
-}
+ p{
+    color: rgb(0, 0, 0);
+ }
