@@ -1,5 +1,7 @@
 header{
     background-color: rgb(15, 187, 255);
+    height: 150px;
+    padding: 20px 0;
 }
 nav li {
     display: inline;
@@ -14,4 +16,15 @@ nav a {
 }
 body{
     background-color: rgb(3, 31, 107);
+}
+.caixa{
+    position: relative;
+    width: 940px;
+    margin: 0 auto;
+
+}
+nav{
+    position: absolute;
+    top: 60px;
+    right: 0;
 }
