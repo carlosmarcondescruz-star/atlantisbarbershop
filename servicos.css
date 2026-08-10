@@ -2,6 +2,8 @@ header{
     background-color: rgb(15, 187, 255);
     height: 150px;
     padding: 20px 0;
+  
+    
 }
 nav li {
     display: inline;
@@ -27,4 +29,24 @@ nav{
     position: absolute;
     top: 60px;
     right: 0;
+}
+h1 img{
+    width: 300px;
+    
+}
+.servicos{
+    width: 940px;
+    margin: 0 auto;
+    padding: 50px 0;
+
+}
+
+.servico li{
+    display: inline-block;
+    text-align: center;
+    width: 30%;
+    vertical-align: top;
+    margin: 0 1.5%;
+    padding: 30px 20px;
+    box-sizing: border-box;
 }
