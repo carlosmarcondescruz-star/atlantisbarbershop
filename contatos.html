@@ -32,7 +32,23 @@
             <label for="telefone">Telefone</label>
             <input type="text" id="telefone">
 
-            <input type="submit" value="Enviar Formulário">
+            <div>
+                <p>Como prefere o nosso contato?</p>
+                <label for="radio-email">
+                    <input type="radio" name="contato" value="email" id="radio-email">
+                    Email
+                </label>
+                 <label for="radio-telefone">
+                    <input type="radio" name="contato" value="telefone" id="radio-telefone">
+                    Telefone
+                </label>
+                 <label for="radio-whatsapp">
+                    <input type="radio" name="contato" value="radio-whatsapp" id="radio-whatsapp">
+                    zapzap
+                </label>
+            </div>
+
+            <input type="submit" value="Enviar Formulário" class="enviar">
         </form>
     </main>
     <footer>

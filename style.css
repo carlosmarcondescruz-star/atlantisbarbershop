@@ -98,7 +98,7 @@ main{
 form{
     margin: 40px 0;
 }
-form label{
+form label, form p{
     display: block;
     font-size: 20px;
     margin: 0 0 10px;
@@ -109,4 +109,28 @@ form input{
     margin: 0 0 20px;
     padding: 10px 25px;
     width: 50%;
+}
+.enviar{
+    width: 40%;
+    padding: 15px;
+    background-color: rgb(59, 72, 243);
+    color: rgb(240, 232, 232);
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 1s all;
+}
+.enviar:hover{
+    background-color: blue;
+    transform: scale(1.2);
+    
+}
+@keyframes repetir{
+    0%{
+        transform: scale(1.0);
+    }
+    100%{
+        transform: scale(1.5);
+    }
 }
