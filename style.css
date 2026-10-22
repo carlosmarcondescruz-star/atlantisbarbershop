@@ -16,6 +16,11 @@ nav a {
     font-size: 22px;
     font-weight: bold;
 }
+
+nav a:hover{
+    color: blue;
+    text-decoration: underline;
+}
 body{
     background-color: rgb(3, 31, 107);
     
@@ -51,6 +56,15 @@ h1 img{
     margin: 0 1.5%;
     padding: 30px 20px;
     box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+.servicos li:hover{
+    border-color: blue;
+}
+
+.servicos li:active{
+    background-color: blue;
 }
 
 .descricao {
