@@ -1,5 +1,5 @@
 header{
-    background-color: rgb(15, 187, 255);
+    background-color: rgb(65, 185, 232);
     height: 150px;
     padding: 20px 0;
   
@@ -12,7 +12,7 @@ nav li {
 nav a {
     text-decoration: none;
     text-transform: uppercase;
-    color: beige;
+    color: rgb(21, 114, 114);
     font-size: 22px;
     font-weight: bold;
 }
@@ -20,6 +20,7 @@ nav a {
 nav a:hover{
     color: blue;
     text-decoration: underline;
+    font-size: 22px;
 }
 body{
     background-color: rgb(3, 31, 107);
@@ -36,11 +37,15 @@ nav{
     top: 60px;
     right: 0;
 }
+main h1{
+    font-size: 30px;
+    color: aqua;
+}
+
 h1 img{
     width: 300px;
-    
-    
 }
+
 .servicos{
     width: 940px;
     margin: 0 auto;
