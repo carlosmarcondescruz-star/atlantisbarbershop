@@ -5,6 +5,9 @@ header{
   
     
 }
+img{
+    width: 30px;
+}
 nav li {
     display: inline;
     margin: 0 0 0 15px;

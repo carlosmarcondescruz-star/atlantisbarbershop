@@ -5,6 +5,15 @@ header{
   
     
 }
+ .servicos img{
+    width: 150px;
+}
+
+img{
+    width: 400px;
+}
+
+
 nav li {
     display: inline;
     margin: 0 0 0 15px;
@@ -102,7 +111,7 @@ footer{
 }
 
 footer img{
-    width: 200px;
+    width: 20%;
     margin-bottom: 20px;
 }
 footer p{

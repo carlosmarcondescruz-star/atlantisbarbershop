@@ -2,12 +2,9 @@ h1{
     color: rgb(8, 133, 235);
     display: inline;
     margin: 0 0 0 15px;
-    
+   
 }
 
- h1 img{
-    width: 300px;
-}
 body{
     background-image: url("navy\ aesthetic\ __\ dark\ blue\ __\ navy\ nights.jpg"); /*imagem de fundo do site*/
     /*background-color: rgb(183, 230, 214);*/
@@ -33,3 +30,5 @@ nav a{
 main h2{
     width: 150px;
 }
+
+
